@@ -1,0 +1,1 @@
+update vt_vote_reg set caption='RMK' where aadhar='654984655664'
